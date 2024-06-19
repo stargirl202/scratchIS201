@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 15px;
+    height: 72px;
+    padding: 5px;
+}
+
+.title{
+    top: 125px;
+    left: 200px;
+    right: 200px;
+}
+
+.footer{
+    left: 15px;
+    height: 25px;
+    padding: 5px;
+}
